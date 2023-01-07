@@ -20,6 +20,10 @@ body {
 }
 
 #form > button {
+	background: #efefef;
+	border: none;
+	padding: 0 1rem;
+	margin: 0.25rem;
 }
 
 #input {
